@@ -1,21 +1,13 @@
 # 💫 About Me:
-🔭 Currently working on:<br>
-An e-commerce project using modular JavaScript and Bootstrap, focused on enhancing user experience.<br><br>
 
-🤝 Looking to collaborate on:<br>
-Web development projects, mobile applications, and tools that create social or educational impact.<br><br>
+I’m a Biomedical Engineer with a specialization in Software Engineering, currently focused on Full Stack Development. My academic background gives me a unique perspective on the intersection between technology and problem-solving in real-world contexts.
 
-🙌 Seeking help with:<br>
-Improving my skills in automated testing and best practices in backend development with Java or Node.js.<br><br>
+I have hands-on experience with front-end technologies such as HTML, CSS, JavaScript, and Bootstrap, and I’m currently deepening my skills in back-end development with Java. I work with modular JavaScript structures, consume RESTful APIs, and manage projects using Git and GitHub.
 
-🌱 Currently learning:<br>
-Java Full Stack, REST API integration, and cloud deployment (AWS).<br><br>
+My main areas of interest include backend architecture, software design patterns, and automated testing. I'm also exploring how to build scalable and maintainable applications by following clean code principles and good development practices.
 
-💬 Ask me about:<br>
-HTML, CSS, JavaScript, Bootstrap, Git, and how to get started with programming if you're a beginner.<br><br>
+I'm passionate about continuous learning and teamwork, and I enjoy collaborating in agile environments like Scrum. I'm always open to contributing to projects that challenge my skills and allow me to grow as a developer.
 
-⚡ Fun fact:<br>
-I cook every Sunday to optimize my week, and I’m a fan of hackathons because I enjoy working under pressure.🎯.
 
 
 ## 🌐 Socials:
